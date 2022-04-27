@@ -1,0 +1,20 @@
+:root{
+    /* Colors */
+    --text-color: var(--white); 
+
+    /* Background */
+    --main-background: hsl(218, 28%, 13%);
+    --secondary-background: hsl(217, 28%, 15%);;
+    --footer-background: hsl(216, 53%, 9%);
+    --testimonials-background: hsl(219, 30%, 18%);
+
+    /* Accent */
+    --cyan:hsl(176, 68%, 64%);
+    --blue:hsl(198, 60%, 50%);
+    --white: hsl(0, 0%, 100%);
+
+    /* Typography */
+    --raleway: 'Raleway', sans-serif;
+    --font-size: 14px;
+    --poppins: 'Poppins', sans-serif;
+}
