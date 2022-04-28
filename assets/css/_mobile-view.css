@@ -1,8 +1,5 @@
 /* Media Queries */
 @media (max-width: 375px) {
-   body{
-       width: 100%;
-   }
    /* Header */
     header{
         padding: 15px;
