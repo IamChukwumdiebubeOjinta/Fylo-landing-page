@@ -27,7 +27,6 @@
 }
 
 body {
-    width: 100%;
     font-family: 'Open Sans', sans-serif;
     background-image: linear-gradient(var(--secondary-background), var(--main-background));
     font-size: var(--font-size);
